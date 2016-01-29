@@ -42,6 +42,12 @@
     <ClCompile Include="full_connect_layer.cpp">
       <Filter>Source Files\layers</Filter>
     </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="layer.cpp">
+      <Filter>Source Files\layers</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cnn.h">
@@ -64,6 +70,12 @@
     </ClInclude>
     <ClInclude Include="full_connect_layer.h">
       <Filter>Source Files\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="layer.h">
+      <Filter>Source Files\layers</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
