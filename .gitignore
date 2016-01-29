@@ -183,9 +183,3 @@ FakesAssemblies/
 
 *.apk
 *.so
-
-
-/HwMarkTool/GeneratedFiles/
-/HwMarkTool/user_data/
-/PenTestDemo/GeneratedFiles/
-/学霸君手写标注工具/
